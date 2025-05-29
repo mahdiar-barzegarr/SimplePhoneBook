@@ -1,0 +1,11 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+*.bak
+packages/
+bin/
+obj/
